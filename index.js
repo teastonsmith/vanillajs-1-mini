@@ -1,5 +1,4 @@
 const element = document.getElementById('counter');
-
 let count = 0;
 
 function increase() {
